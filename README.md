@@ -10,25 +10,22 @@
 ## 💼 Experiences
 - Research Internship, Laboratory of Computer Science and Systems, Jan 2024
 - Research Internship, Laboratory of Mechanics and Acoustics, Jun 2023 - Jul 2023
-- Rocket Modeling Manager, Centrale Méditerranée Aéro, Jan 2022 - Jan 2023
-- Volunteer Tutor, Echanges Phocéens, Feb 2022 - Jun 2022
-
-## 🚀 Skills
-- **Languages:** Python (Pytorch, Pandas, Streamlit), Matlab, C++, Github, Latex, English (TOEIC 915)
-- **Certifications:** MOOC Project Management (2022)
-- **Abilities:** Group work, Rigorous, Creative
-- **IT Skills:** Word, Excel, PowerPoint, Photoshop, Premiere Pro
-
-## 🌟 Interests
-- Internationally Ranked Speedcuber since 2015 🧩
-- One-star CMAS Diver exploring the French Riviera's underwater beauty 🌊
-
----
 
 #### 📧 **Contact**
 - Email: eliott.crancee@centrale-med.fr
 - LinkedIn: [in/eliott-crancee](https://www.linkedin.com/in/eliott-crancee)
 
----
-
 Feel free to explore my projects and connect with me on LinkedIn! Let's collaborate and innovate together! 🌟🤝
+
+# Projects
+
+## ParoleNet
+
+ParoleNet is a multimodal model for predicting turn-taking in conversations. Its primary objective is to determine, at the end of a given sentence, whether the current speaker will continue speaking or yield the floor to their interlocutor. It takes as input the last 20 words of the sentence and the final two seconds of the audio recording, performing classification into two turn-taking classes.
+
+**🔍 Key Highlights:**
+
+Trained on a specific French-language dataset containing 16,400 sentences.
+Achieved promising results surpassing random initialization, indicating the model's ability to anticipate turn-taking.
+Statistical analysis suggests the model understands the relationship between input data and turn-taking prediction, rather than relying solely on frequency-based predictions.
+Demonstrates significant learning, validating the effectiveness of our approach.
