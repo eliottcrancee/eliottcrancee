@@ -1,16 +1,43 @@
-### Hi there 👋
+### Welcome to Eliott Crancée's GitHub Page! 👋
 
-<!--
-**eliottcrancee/eliottcrancee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### AI Expert | Engineer Student | Centrale Méditerranée
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education**
+- Master in AI, Aix-Marseille University | 2023 - 2024
+- Master's level engineering degree, Centrale Méditerranée | 2021 - 2024
+- Preparatory class, High school La Martinière Monplaisir | 2019 - 2021
+
+---
+
+💼 **Experiences**
+- Research Internship, Laboratory of Computer Science and Systems, Jan 2024
+- Research Internship, Laboratory of Mechanics and Acoustics, Jun 2023 - Jul 2023
+- Rocket Modeling Manager, Centrale Méditerranée Aéro, Jan 2022 - Jan 2023
+- Volunteer Tutor, Echanges Phocéens, Feb 2022 - Jun 2022
+
+---
+
+🚀 **Skills**
+- **Languages:** Python (Pytorch, Pandas, Streamlit), Matlab, C++, Github, Latex, English (TOEIC 915)
+- **Certifications:** MOOC Project Management (2022)
+- **Abilities:** Group work, Rigorous, Creative
+- **IT Skills:** Word, Excel, PowerPoint, Photoshop, Premiere Pro
+
+---
+
+🌟 **Interests**
+- Internationally Ranked Speedcuber since 2015 🧩
+- One-star CMAS Diver exploring the French Riviera's underwater beauty 🌊
+
+---
+
+📧 **Contact**
+- Phone: +33 6 51 39 75 68
+- Email: eliott.crancee@ec-m.fr
+- LinkedIn: [in/eliott-crancee](https://www.linkedin.com/in/eliott-crancee)
+
+---
+
+Feel free to explore my projects and connect with me on LinkedIn! Let's collaborate and innovate together! 🌟🤝
