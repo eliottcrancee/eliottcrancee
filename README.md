@@ -12,7 +12,7 @@
 - Research Internship, Laboratory of Mechanics and Acoustics, Jun 2023 - Jul 2023
 
 ## 📧 Contact
-- Email: eliott.crancee@centrale-med.fr
+- Email: eliott.crancee@centrale-med.fr or crancee.eliott.pro@gmail.com
 - LinkedIn: [in/eliott-crancee](https://www.linkedin.com/in/eliott-crancee)
 
 Feel free to explore my projects and connect with me on LinkedIn! Let's collaborate and innovate together! 🌟🤝
