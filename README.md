@@ -11,7 +11,7 @@
 - Research Internship, Laboratory of Computer Science and Systems, Jan 2024
 - Research Internship, Laboratory of Mechanics and Acoustics, Jun 2023 - Jul 2023
 
-#### 📧 **Contact**
+## 📧 Contact
 - Email: eliott.crancee@centrale-med.fr
 - LinkedIn: [in/eliott-crancee](https://www.linkedin.com/in/eliott-crancee)
 
