@@ -2,14 +2,15 @@
 
 **AI Expert | Engineer Student | Centrale Méditerranée**
 
+## 💼 Experiences
+- AI Developer Intern, Infocosme, Apr 2024
+- Research Internship, Laboratory of Computer Science and Systems, Jan 2024
+- Research Internship, Laboratory of Mechanics and Acoustics, Jun 2023 - Jul 2023
+
 ## 🎓 Education
 - Master in AI, Aix-Marseille University | 2023 - 2024
 - Master's level engineering degree, Centrale Méditerranée | 2021 - 2024
 - Preparatory class, High school La Martinière Monplaisir | 2019 - 2021
-
-## 💼 Experiences
-- Research Internship, Laboratory of Computer Science and Systems, Jan 2024
-- Research Internship, Laboratory of Mechanics and Acoustics, Jun 2023 - Jul 2023
 
 ## 📧 Contact
 - Email: eliott.crancee@centrale-med.fr or crancee.eliott.pro@gmail.com
