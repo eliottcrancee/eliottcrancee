@@ -3,6 +3,7 @@
 **AI Expert | Engineer Student | Centrale Méditerranée**
 
 ## 💼 Experiences
+- R&D Intern, Euranova, May 2024 - Sep 2024
 - AI Developer Intern, Infocosme, Apr 2024
 - Research Internship, Laboratory of Computer Science and Systems, Jan 2024
 - Research Internship, Laboratory of Mechanics and Acoustics, Jun 2023 - Jul 2023
