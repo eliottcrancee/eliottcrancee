@@ -1,6 +1,6 @@
 # Welcome to Eliott Crancée's GitHub Page! 👋
 
-**AI Expert | Engineer Student | Centrale Méditerranée**
+**AI Engineer | Centrale Méditerranée**
 
 ## 💼 Experiences
 - R&D Intern, Euranova, May 2024 - Sep 2024
